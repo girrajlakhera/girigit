@@ -1,8 +1,8 @@
-# Sinatra Heroku Cedar Template
+# giri-heroku-template
 
-![](https://raw.githubusercontent.com/scottmotte/sinatra-heroku-cedar-template/master/sinatra-heroku-cedar-template.jpg)
+![](https://raw.githubusercontent.com/girrajlakhera/girigit/master/myIcon.jpg)
 
-The bare minimum for a sinatra app on cedar, running rack, and using bundler.
+The bare minimum for a giri app on cedar, running rack, and using bundler.
 
 ## Putting it up on Heroku
 
@@ -13,7 +13,7 @@ Deploy to Heroku by clicking this button.
 ## Running it locally
 
 ```
-$ git clone git://github.com/scottmotte/sinatra-heroku-cedar-template.git
+$ git clone git://https://github.com/girrajlakhera/girigit
 $ gem install bundler
 $ bundle
 $ bundle exec foreman start
