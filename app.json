@@ -1,13 +1,13 @@
 {
-  "name": "sinatra-heroku-cedar-template",
-  "description": "Sinatra Heroku Cedar Template - The bare minimum for a sinatra app on cedar, running thin, and using bundler.",
+  "name": "giri-heroku-template",
+  "description": "test clone project",
   "keywords": [
-    "sinatra",
+    "test",
     "heroku",
     "cedar",
     "template"
   ],
-  "website": "https://github.com/scottmotte/sinatra-heroku-cedar-template",
-  "repository": "https://github.com/scottmotte/sinatra-heroku-cedar-template",
-  "logo": "https://raw.githubusercontent.com/scottmotte/sinatra-heroku-cedar-template/master/sinatra-heroku-cedar-template.jpg"
+  "website": "https://github.com/girrajlakhera/girigit",
+  "repository": "https://github.com/girrajlakhera/girigit",
+  "logo": "https://raw.githubusercontent.com/girrajlakhera/girigit/master/myIcon.jpg"
 }
